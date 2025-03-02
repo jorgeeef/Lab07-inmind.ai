@@ -40,6 +40,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseStaticFiles();  // This enables serving static files
+
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication();

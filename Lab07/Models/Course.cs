@@ -7,6 +7,7 @@ public class Course
     public int CourseId { get; set; }
     public string Title { get; set; }
     public string Description { get; set; }
+    public string CourseImageURL { get; set; }
     
     public int TeacherId { get; set; }
     public Teacher Teacher { get; set; }
