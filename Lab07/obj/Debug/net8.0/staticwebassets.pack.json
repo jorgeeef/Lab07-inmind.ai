@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\Lab07\\Lab07\\wwwroot\\CourseImages\\onlinecourse.jpg",
+      "PackagePath": "staticwebassets\\CourseImages\\onlinecourse.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab07.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab07.props",
+      "PackagePath": "build\\Lab07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab07.props",
+      "PackagePath": "buildMultiTargeting\\Lab07.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab07.props",
+      "PackagePath": "buildTransitive\\Lab07.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "4AxVLQzx3xhnlhl4k8/QzQ7V+TPAXKONkLmM/f/Uohk=",
+  "Hash": "zF/Oa2toztplyDNVKw7rWgWkcQsXud+v5Jfuh6+OHLQ=",
   "Source": "Lab07",
   "BasePath": "_content/Lab07",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab07\\wwwroot",
+      "Source": "Lab07",
+      "ContentRoot": "C:\\Users\\user\\RiderProjects\\Lab07\\Lab07\\wwwroot\\",
+      "BasePath": "_content/Lab07",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\RiderProjects\\Lab07\\Lab07\\wwwroot\\CourseImages\\onlinecourse.jpg",
+      "SourceId": "Lab07",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\RiderProjects\\Lab07\\Lab07\\wwwroot\\",
+      "BasePath": "_content/Lab07",
+      "RelativePath": "CourseImages/onlinecourse.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CourseImages\\onlinecourse.jpg"
+    }
+  ]
 }
